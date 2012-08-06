@@ -1,6 +1,12 @@
+<<<<<<< HEAD
+/PatiscoSearchTest
+bin
+.metadata 
+=======
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+>>>>>>> branch 'master' of https://github.com/arvin0731/Patisco_Solr.git
